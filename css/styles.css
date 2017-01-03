@@ -19,7 +19,7 @@ ul {
 img {
 	border: none;
 	vertical-align: middle;
-	margin-left: -10px;
+	/*margin-left: -10px;*/
 }
 a {
 	text-decoration: none;
