@@ -168,7 +168,8 @@ background-color: #fff;
 	background-color: #fff;
 	height: 180px;
 }
-#header .nav #sub_02 div li{width: 70px;	 float: left;margin: 0;padding: 0;}
+img{margin-left: -10px;}
+#header .nav #sub_02 div li{width: 70px;	 float: left;margin: 10;padding: 0;}
 #sub_02 div{width:200px;padding: 0;}
 
 #sub_02 div:nth-of-type(1) li{
