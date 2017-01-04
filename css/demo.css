@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+ul{padding: 0;list-style: none;}
+
+.box{
+	position: relative;
+	
+
+
+
+}
+.box ul{position: absolute;margin-left: 30px;border: 1px solid #ccc;}
+.box li{float: left;}
+.box p{
+	position: absolute;
+	display: block;
+	margin-top: 35px;
+	width: 30px;
+	height: 30px;
+}
+.box p:hover{cursor: pointer;}
+.l-btn{background-image: url(../images/c1.png);background-repeat: no-repeat;}
+.r-btn{background-image: url(../images/c2.png);background-repeat: no-repeat;left: 420px}
+.active01{opacity: 0.6;}
